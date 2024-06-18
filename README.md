@@ -5,6 +5,6 @@ options:
 
     1. pykey - python cli tool for random key generating.
 
-    2. keyjs - js module for key generating like totp generator.
+    2. randkeyjs - js module for key generating like totp generator.
 
     
